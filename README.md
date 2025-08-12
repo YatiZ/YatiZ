@@ -35,7 +35,7 @@
   <!-- Stats with snake eating contributions -->
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YatiZ&show_icons=true&theme=radical&include_all_commits=true&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide=issues"/>
   
-  <!-- Snake animation in contributions -->
+  <!-- Weekly Development Chart -->
   <img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=YatiZ&layout=compact&theme=radical&bg_color=30,904e95,e96443&title_color=fff&text_color=fff&custom_title=Weekly+Development"/>
 </div>
 
@@ -53,14 +53,18 @@
 
 ### 🛠️ My Toolbox
 <p align="center">
+  <!-- Frontend -->
   <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,html,css" alt="Frontend" title="Frontend"/>
   <br>
-  <img src="https://skillicons.dev/icons?i=django,python,git,github,figma,vscode" alt="Tools" title="Tools"/>
+  <!-- Backend & Tools -->
+  <img src="https://skillicons.dev/icons?i=django,python,jupyter,git,github,figma,vscode" alt="Tools" title="Tools"/>
+  <br>
+  <!-- GSAP (custom icon since skillicons.dev doesn't have it) -->
+  <img src="https://raw.githubusercontent.com/daniel-lundin/gsap-icon/master/gsap-icon.svg" width="48" height="48" alt="GSAP" title="GSAP Animation Library"/>
 </p>
 
 ---
 
-<!-- Animated trophy case -->
 ### 🏆 GitHub Achievements
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=YatiZ&theme=onedark&no-frame=true&row=1&column=7" alt="Trophies"/>
@@ -74,4 +78,3 @@
   <h3>Ready for takeoff! Let's build something amazing ✈️</h3>
   <img src="https://media.giphy.com/media/3o7aD2d7hy9ktXNDP2/giphy.gif" width="300"/>
 </div>
-
