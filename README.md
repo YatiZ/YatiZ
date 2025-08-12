@@ -1,80 +1,71 @@
-<!-- Airplane flying across with contrail showing contributions -->
-<div align="center">
-  ![Airplane Contribution Grid](https://raw.githubusercontent.com/YatiZ/YatiZ/output/github-contribution-grid-airplane.svg)
-</div>
-
-<!-- Floating avatar with wave -->
-<h1 align="center"> 
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> 
-  Hello World! I'm <span style="color: #ff6b6b">Yati Htun</span> 
-  <img src="https://media.giphy.com/media/H4uE6w9G1uK4M/giphy.gif" width="30px"/>
+<!-- Sparkling Header -->
+<h1 align="center">
+  ✨ Hi there, I'm <a href="https://github.com/YatiZ">Yati Htun</a> 
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 </h1>
 
-<!-- Animated typing with gradient text -->
+<!-- Floating Hearts Divider -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=500&color=FF9E80&center=true&vCenter=true&width=500&lines=Frontend+Alchemist;Turning+%3Ccode%3E+into+✨+magic;React+%7C+Next.js+%7C+Tailwind+CSS;UI%2FUX+Enthusiast;Open+to+collaborate!" alt="Typing SVG" />
+  <img src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif" width="60">
 </p>
 
-<!-- Floating social badges -->
-<div align="center">
-  <a href="mailto:zuzu62113@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-FF9E80?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/yati-htun-a68638248/">
-    <img src="https://img.shields.io/badge/-LinkedIn-87CEFA?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://my-portfolio-eight-tau-77.vercel.app/">
-    <img src="https://img.shields.io/badge/-Portfolio-FFD700?style=for-the-badge&logo=react&logoColor=white"/>
-  </a>
-</div>
-
----
-
-### 📊 My Coding Journey
-<div align="center">
-  <!-- Stats with snake eating contributions -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YatiZ&show_icons=true&theme=radical&include_all_commits=true&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide=issues"/>
-  
-  <!-- Weekly Development Chart -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=YatiZ&layout=compact&theme=radical&bg_color=30,904e95,e96443&title_color=fff&text_color=fff&custom_title=Weekly+Development"/>
-</div>
-
-<!-- Animated contribution graph with snake -->
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YatiZ&theme=react-dark&bg_color=1a1a1a&hide_border=true&area=true&area_color=ff9e80&line=ff9e80&point=ffffff&hide_title=false" width="90%"/>
-</div>
-
-<!-- Snake eating contributions animation -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/YatiZ/YatiZ/output/github-contribution-grid-snake.svg" width="100%"/>
-</div>
-
----
-
-### 🛠️ My Toolbox
+<!-- Animated Typing Effect -->
 <p align="center">
-  <!-- Frontend -->
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,html,css" alt="Frontend" title="Frontend"/>
-  <br>
-  <!-- Backend & Tools -->
-  <img src="https://skillicons.dev/icons?i=django,python,jupyter,git,github,figma,vscode" alt="Tools" title="Tools"/>
-  <br>
-  <!-- GSAP (custom icon since skillicons.dev doesn't have it) -->
-  <img src="https://raw.githubusercontent.com/daniel-lundin/gsap-icon/master/gsap-icon.svg" width="48" height="48" alt="GSAP" title="GSAP Animation Library"/>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFB6C1&center=true&vCenter=true&width=500&lines=Frontend+Developer+🌸;React+%7C+Next.js+%7C+Tailwind+CSS+💖;Coffee+%2B+Code+%3D+Magic+✨" alt="Typing SVG" />
+  </a>
+</p>
+
+<!-- Cute Social Badges -->
+<p align="center">
+  <a href="mailto:zuzu62113@gmail.com"><img src="https://img.shields.io/badge/Email-FFC0CB?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/yati-htun-a68638248/"><img src="https://img.shields.io/badge/LinkedIn-ADD8E6?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://my-portfolio-eight-tau-77.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-FFFACD?style=for-the-badge&logo=About.me&logoColor=black"/></a>
 </p>
 
 ---
 
-### 🏆 GitHub Achievements
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YatiZ&theme=onedark&no-frame=true&row=1&column=7" alt="Trophies"/>
+### 🌸 About Me
+- 💻 Passionate **Frontend Developer** with hands-on experience.
+- 🎯 Leveling up my **React, Next.js, Tailwind CSS, Django** skills and exploring **Data Science and AI**.
+- 🌟 Fun fact: I turn ☕ coffee into magical UIs ✨.
+- 🐱 Cat lover + pastel aesthetic enthusiast.
+
+---
+
+### 🛠 Tech Stack
+**Frontend:**
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,typescript,javascript,html,css" />
+</p>
+
+**Backend & Tools:**
+<p>
+  <img src="https://skillicons.dev/icons?i=django,python,git,github,figma,postman" />
 </p>
 
 ---
 
-<!-- Floating message with animations -->
-<div align="center">
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="100"/>
-  <h3>Ready for takeoff! Let's build something amazing ✈️</h3>
-  <img src="https://media.giphy.com/media/3o7aD2d7hy9ktXNDP2/giphy.gif" width="300"/>
-</div>
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YatiZ&show_icons=true&theme=tokyonight&count_private=true" height="165"/>
+</p>
+
+---
+
+### 🎀 Let’s Connect!
+<p align="center">
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="50" />
+</p>
+<p align="center">
+  <a href="mailto:zuzu62113@gmail.com">📧 Email</a> •
+  <a href="https://www.linkedin.com/in/yati-htun-a68638248/">💼 LinkedIn</a> •
+  <a href="https://my-portfolio-eight-tau-77.vercel.app/">🌐 Portfolio</a>
+</p>
+
+---
+
+<!-- Cute Closing Animation -->
+<p align="center">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExamc0OHN4aXE5b3FyZ25neGg2Z20zY2RqYWd2a3V5bnZqYnZ4Zms5MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nFLW7PNGgN3lI68rdv/giphy.gif" width="400"/>
+</p>
