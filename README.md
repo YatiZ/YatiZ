@@ -10,16 +10,15 @@
 
 <!-- Social Badges -->
 <p align="center">
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-FFB6C1?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/yourlinkedin"><img src="https://img.shields.io/badge/LinkedIn-87CEFA?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://your-portfolio-link.com"><img src="https://img.shields.io/badge/Portfolio-FFD700?style=for-the-badge&logo=About.me&logoColor=black"/></a>
+  <a href="mailto:zuzu62113@gmail.com"><img src="https://img.shields.io/badge/Email-FFB6C1?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/yati-htun-a68638248/"><img src="https://img.shields.io/badge/LinkedIn-87CEFA?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://my-portfolio-eight-tau-77.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-FFD700?style=for-the-badge&logo=About.me&logoColor=black"/></a>
 </p>
 
 ---
 
 ### 🌸 About Me
 - 💻 Passionate **Frontend Developer** with **1.5 years** of experience.
-- 🌏 Open to **job opportunities in Dubai**.
 - 🎯 Currently improving **React, Next.js, Tailwind CSS** and exploring **Django**.
 - 🌟 Fun fact: I love turning coffee ☕ into beautiful UI designs.
 
@@ -51,9 +50,9 @@
   <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="50" />
 </p>
 <p align="center">
-  <a href="mailto:your-email@example.com">📧 Email Me</a> |
-  <a href="https://linkedin.com/in/yourlinkedin">💼 LinkedIn</a> |
-  <a href="https://your-portfolio-link.com">🌐 Portfolio</a>
+  <a href="mailto:zuzu62113@gmail.com">📧 Email Me</a> |
+  <a href="https://www.linkedin.com/in/yati-htun-a68638248/">💼 LinkedIn</a> |
+  <a href="https://my-portfolio-eight-tau-77.vercel.app/">🌐 Portfolio</a>
 </p>
 
 ---
