@@ -51,17 +51,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=YatiZ&show_icons=true&theme=tokyonight&count_private=true" height="165"/>
 </p>
 
----
-
-### 🎀 Let’s Connect!
-<p align="center">
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="50" />
-</p>
-<p align="center">
-  <a href="mailto:zuzu62113@gmail.com">📧 Email</a> •
-  <a href="https://www.linkedin.com/in/yati-htun-a68638248/">💼 LinkedIn</a> •
-  <a href="https://my-portfolio-eight-tau-77.vercel.app/">🌐 Portfolio</a>
-</p>
 
 ---
 
